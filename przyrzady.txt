@@ -1,0 +1,21 @@
+Osoba wypozyczajaca: Mateusz S
+Typ przyrzadu: Multimetr
+Nazwa: ogit
+Kanaly: 1
+Dostepnosc: Dostepny
+Maksymalna rozdzielczosc: 10000
+Cena: 99.99
+Osoba wypozyczajaca: Mateusz S
+Typ przyrzadu: Generator
+Nazwa: ni-T 
+Kanaly: 2
+Dostepnosc: Dostepny
+Maksymalna czestotliwosc sygnalu: 1179
+Cena: 29.99
+Osoba wypozyczajaca: eysight
+Typ przyrzadu: Oscyloskop
+Nazwa: eysight
+Kanaly: 3
+Dostepnosc: Dostepny
+Maksymalna czêstotliwoœæ próbkowania: 2.5e+06
+Cena: 199.99
